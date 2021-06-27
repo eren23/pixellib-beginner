@@ -1,0 +1,1 @@
+model_path="/home/eren/Documents/Assests/Models/mask_rcnn_coco/mask_rcnn_coco.h5"
